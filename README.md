@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
 
-### Hola, Javier or acá!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+### Hola, Javier por acá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 <p>
 Soy desarrollador Full Stack apasionado por el diseño UI/UX y la creación de sitios web atractivos y fáciles de usar."
@@ -28,14 +28,18 @@ Soy desarrollador Full Stack apasionado por el diseño UI/UX y la creación de s
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=urbinarathgeb&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=urbinarathgeb&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
 
 
 
 <h3 align="left">Activity:</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/urbinarathgeb/urbinarathgeb/output/github-contribution-grid-snake.svg" alt="Snake animation" width="600" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/urbinarathgeb/urbinarathgeb/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/urbinarathgeb/urbinarathgeb/output/github-contribution-grid-snake.svg" />
+    <img alt="github snake animation" src="https://raw.githubusercontent.com/urbinarathgeb/urbinarathgeb/output/github-contribution-grid-snake.svg" width="600" />
+  </picture>
 </p>
 
 <p align="center">
