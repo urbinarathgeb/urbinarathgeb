@@ -26,3 +26,18 @@ Soy desarrollador Full Stack apasionado por el diseño UI/UX y la creación de s
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+[![Most Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=urbinarathgeb&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
+
+
+
+<h3 align="left">Activity:</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/urbinarathgeb/urbinarathgeb/output/github-contribution-grid-snake.svg" alt="Snake animation" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urbinarathgeb&theme=tokyonight&background=0D1117&border=58A6FF&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF" width="450" alt="GitHub Streak" />
+</p>
